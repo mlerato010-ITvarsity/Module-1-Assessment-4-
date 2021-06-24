@@ -1,0 +1,18 @@
+th {
+    font-weight: 800;
+    background-color: #ffcccc;
+}
+
+table {
+font-family: Arial, Helvetica, sans-serif;
+border-collapse:collapse;
+border-width:2px;
+border-style: solid;
+
+}
+
+td {
+ color: #c6538c;
+font-size:5;
+font-family: Arial, Helvetica, sans-serif;
+}
